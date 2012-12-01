@@ -13,6 +13,10 @@ MotionEditor
  [![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor＿GUI_Guide2.png)
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor＿GUI_Guide2.png
 
+[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
+[image2]:　http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png  
+　　
+
 
 　　File：　出力するファイルの名前を入力  
 　　Time：　サーボを目的角度まで動かすのにかける時間[ms]  
