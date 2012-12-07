@@ -10,7 +10,8 @@ MotionEditor
 
 　ここでいうサーボマネージャとは私たちが作った[PrsServoManager](https://github.com/s-ryuki/PrsServoManager)、
 [McuComm](http://github.com/s-ryuki/McuComm)、またはそれに準ずるコンポーネントのことをさします。  
-
+　  
+　  
 #### MotionEditorの使い方####
 　　[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor＿GUI_Guide2.png)
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor＿GUI_Guide2.png
