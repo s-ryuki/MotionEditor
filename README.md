@@ -17,7 +17,7 @@ MotionEditor
 ----------------------
 　　　　　[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor_GUI_Guide3.png)
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor_GUI_Guide3.png
-####　　　　　　　画面説明####  
+####　　　　　　　画面説明####
 　　　　　　　　　　File：　出力するファイルの名前を入力  
 　　　　　　　　　　Time：　サーボを目的角度まで動かすのにかける時間[ms]  
 　　　　　　　　　　Wait：　目的角度に動いたあとの待機時間[ms]  
