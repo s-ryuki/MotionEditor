@@ -37,7 +37,7 @@ MotionEditor
 
 　　　　　　　 [![画像3][image3]](http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor_ini.png)
 [image3]:http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor_ini.png
-　　　　　　　　**画面説明**
+　　　　　　　　**画面説明**  
 　　　　　　　　　　　①：使用するサーボモータの個数  
 　　　　　　　　　　　②：ゲージを動かした時のサーボモータを目的角度まで動かすのにかける時間[ms]  
 　　　　　　　　　　　③：GUIに表示するサーボモータの情報  
