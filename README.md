@@ -22,7 +22,7 @@ MotionEditor
 　　　　　　　　　　Time：　サーボを目的角度まで動かすのにかける時間[ms]  
 　　　　　　　　　　Wait：　目的角度に動いたあとの待機時間[ms]  
 　　　　　　　　　　Pose：　作成するコマの番号  
-　　　　　　　　**画面説明**  
+　　　　　　　　**画面説明**
 　　　　　　　　　　　①：モーションファイル出力ボタン  
 　　　　　　　　　　　②：全サーボモータON/OFFボタン  
 　　　　　　　　　　　③：Pose出力ボタン  
@@ -37,12 +37,12 @@ MotionEditor
 
 　　　　　　　 [![画像3][image3]](http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor_ini.png)
 [image3]:http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor_ini.png
-　　　　　　　　**画面説明**  
+　　　　　　　　**画面説明**
 　　　　　　　　　　　①：使用するサーボモータの個数  
 　　　　　　　　　　　②：ゲージを動かした時のサーボモータを目的角度まで動かすのにかける時間[ms]  
 　　　　　　　　　　　③：GUIに表示するサーボモータの情報  
 　　　　　　　　　　　　　　　id1_label = Body　：ID1のサーボモータの表示名  
-　　　　　　　　　　　　　　　id_min = -900 　　：ID1のサーボモータの最低可動域[1/10deg]  
-　　　　　　　　　　　　　　　id_max = 900　　　：ID1のサーボモータの最高可動域[1/10deg]  
+　　　　　　　　　　　　　　　id_min = -900 　　：ID1のサーボモータの最低可動域[10deg]  
+　　　　　　　　　　　　　　　id_max = 900　　　：ID1のサーボモータの最高可動域[10deg]  
 　　　　　　　　　　　　　　　id1_culumn = 0　　：ID1のculumn  
 　　　　　　　　　　　　　　　id1_row = 2　　　 ：ID1のrow  　　　　　　　　　　　　　　　
