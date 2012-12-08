@@ -4,7 +4,8 @@ MotionEditor
 　これを用いると、サーボモータが同期して動くため各関節の角度を目で確認しながらモーションを作成でき、  
 　容易にMotionLoderが読み込めるXML形式に出力可能です。  
 
-#### コンポーネントの仕様####
+コンポーネントの仕様
+--------------------
 　　　　[![画像1][image1]](http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor_Comm.png)
 [image1]:http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor_Comm.png
 
@@ -12,7 +13,8 @@ MotionEditor
 [McuComm](http://github.com/s-ryuki/McuComm)、またはそれに準ずるコンポーネントのことをさします。  
 　  
 　  
-#### MotionEditorの使い方####
+　MotionEditorの使い方
+----------------------
 　　　　　[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor_GUI_Guide3.png)
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor_GUI_Guide3.png
   
