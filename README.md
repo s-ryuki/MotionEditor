@@ -41,7 +41,7 @@ MotionEditor
 　　　　　　　　　　②：ゲージを動かした時のサーボモータを目的角度まで動かすのにかける時間[ms]  
 　　　　　　　　　　③：GUIに表示するサーボモータの情報  
 　　　　　　　　　　　　　　id1_label = Body　：ID1のサーボモータの表示名  
-　　　　　　　　　　　　　　id_min = -900 　　：ID1のサーボモータの最低可動域[10deg]  
-　　　　　　　　　　　　　　id_max = 900　　　：ID1のサーボモータの最高可動域[10deg]  
-　　　　　　　　　　　　　　id1_culumn = 0　　：ID1のculumn  
-　　　　　　　　　　　　　　id1_row = 2　　　 ：ID1のrow  
+　　　　　　　　　　　　　　id_min = -900 　　：ID1のサーボモータの最低可動域[/0.1deg]  
+　　　　　　　　　　　　　　id_max = 900　　　：ID1のサーボモータの最高可動域[/0.1deg]  
+　　　　　　　　　　　　　　id1_culumn = 0　　：ID1のスライドバーの表示位置：横方向  
+　　　　　　　　　　　　　　id1_row = 2　　　 ：ID1のスライドバーの表示位置：縦方向  
